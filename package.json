@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/RemyX1/FriendFinder/issues"
   },
-  "homepage": "https://github.com/RemyX1/FriendFinder#readme"
+  "homepage": "https://github.com/RemyX1/FriendFinder#readme",
+  "dependencies": {
+    "node": "^11.10.0"
+  }
 }
